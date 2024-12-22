@@ -1,0 +1,3 @@
+[submodule "arduino-cpp-components-library"]
+	path = arduino-cpp-components-library
+	url = git@github.com:aserebryakov/arduino-cpp-components-library.git

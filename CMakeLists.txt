@@ -3,7 +3,7 @@ project(arduino_fun)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_subdirectory(support_library)
+add_subdirectory(arduino-cpp-components-library)
 add_subdirectory(custom_flightsim_controller)
 
 add_library(arduino_fun
